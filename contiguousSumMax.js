@@ -1,5 +1,5 @@
-// given an profit[n], which value could be nagative, and number k.
-// return a subarray[m] of which has max sum of each element, and m<=k.
+// given an profit[n], which value could be nagative.
+// return a subarray[k] of which has max sum of each contiguous element, m<=k.
 
 /*
 algorithm description:
